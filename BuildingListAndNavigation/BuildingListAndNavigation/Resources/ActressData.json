@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Angelina Jolie",
+        "dateOfBirth": "4 June 1975",
+        "city": "Los Angeles",
+        "state": "California",
+        "id": 1001,
+        "imageName": "Angelina Jolie",
+        "isFavorite": false
+    },
+    {
+        "name": "Emma Stone",
+        "dateOfBirth": "6 November 1988",
+        "city": " Scottsdale",
+        "state": "Arizona",
+        "id": 1002,
+        "imageName": "Emma Stone",
+        "isFavorite": false
+    },
+    {
+        "name": "Megan Fox",
+        "dateOfBirth": "16 May 1986",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "id": 1003,
+        "imageName": "Megan Fox",
+        "isFavorite": true
+    },
+    {
+        "name": "Jessica Alba",
+        "dateOfBirth": "28 April 1981",
+        "city": "Pomona",
+        "state": "California",
+        "id": 1004,
+        "imageName": "Jessica Alba",
+        "isFavorite": false
+    },
+    {
+        "name": "Scarlett Johansson",
+        "dateOfBirth": "22 November 1984",
+        "city": "Manhattan",
+        "state": "New York",
+        "id": 1014,
+        "imageName": "Scarlett Johansson",
+        "isFavorite": false
+    },
+    {
+        "name": "Rachel Weisz",
+        "dateOfBirth": "7 March 1970",
+        "city": "Westminster",
+        "state": "London",
+        "id": 1005,
+        "imageName": "Rachel Weisz",
+        "isFavorite": true
+    },
+    {
+        "name": "Saoirse Ronan",
+        "dateOfBirth": "12 April 1994",
+        "city": "The Bronx",
+        "state": "New York",
+        "id": 1007,
+        "imageName": "Saoirse Ronan",
+        "isFavorite": false
+    },
+    {
+        "name": "Jennifer Lopez",
+        "dateOfBirth": "24 July 1969",
+        "city": "Castle Hill",
+        "state": "New York",
+        "id": 1008,
+        "imageName": "Jennifer Lopez",
+        "isFavorite": false
+    },
+    {
+        "name": "Emma Watson",
+        "dateOfBirth": "15 April 1990",
+        "city": "Paris",
+        "state": "France",
+        "id": 1009,
+        "imageName": "Emma Watson",
+        "isFavorite": false
+    },
+    {
+        "name": "Penélope Cruz",
+        "dateOfBirth": "28 April 1974",
+        "city": "Alcobendas",
+        "state": "Spain",
+        "id": 1010,
+        "imageName": "Penélope Cruz",
+        "isFavorite": false
+    },
+    {
+        "name": "Amber Heard",
+        "dateOfBirth": "22 April 1986",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1011,
+        "imageName": "Amber Heard",
+        "isFavorite": false
+    },
+    {
+        "name": "Kate Winslet",
+        "dateOfBirth": "5 October 1975",
+        "city": "Reading",
+        "state": "Reading",
+        "id": 1012,
+        "imageName": "Kate Winslet",
+        "isFavorite": false
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "dateOfBirth": "15 August 1990",
+        "city": "Indian Hills",
+        "state": "Kentucky",
+        "id": 1013,
+        "imageName": "Jennifer Lawrence",
+        "isFavorite": false
+    },
+    {
+        "name": "Amber Heard",
+        "dateOfBirth": "22 April 1986",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1014,
+        "imageName": "Amber Heard",
+        "isFavorite": false
+    },
+    {
+        "name": "Kate Winslet",
+        "dateOfBirth": "5 October 1975",
+        "city": "Reading",
+        "state": "Reading",
+        "id": 1015,
+        "imageName": "Kate Winslet",
+        "isFavorite": false
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "dateOfBirth": "15 August 1990",
+        "city": "Indian Hills",
+        "state": "Kentucky",
+        "id": 1016,
+        "imageName": "Jennifer Lawrence",
+        "isFavorite": false
+    }
+]
